@@ -30,3 +30,8 @@
 ```sh
 python tree.py <dir_path>
 ```
+### 此外
+```
+// 如果不想调用python构建程序，可以使用已经打包好的安装程序
+release > DirTree.exe
+```
